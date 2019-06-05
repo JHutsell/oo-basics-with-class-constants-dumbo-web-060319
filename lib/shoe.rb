@@ -13,5 +13,7 @@ class Shoe
   end
   
   def brands=(brand)
+    @brand
+  end
 
 end
